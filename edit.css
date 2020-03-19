@@ -55,6 +55,7 @@ replaces the active triggers. Use strength meter for best results*/
 
 .edit .trigger.right {
     float: right;
+    padding-left: 3px;
     transform: rotateY(180deg);
 }
 
