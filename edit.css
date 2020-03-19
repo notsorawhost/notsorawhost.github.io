@@ -225,3 +225,12 @@ replaces both standard and input*/
 .edit .face {
     background: url(https://notsorawhost.github.io/assets/dpad.gif);
 }
+
+/*Replaces Quadrant with custom assets*/
+.edit .xbox .quadrant {
+    background: url(https://notsorawhost.github.io/assets/quadrant.png);
+}
+
+.edit .quadrant {
+    background: url(https://notsorawhost.github.io/assets/quadrant.png);
+}
