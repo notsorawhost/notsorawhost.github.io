@@ -51,12 +51,13 @@ replaces the active triggers. Use strength meter for best results*/
 .edit .xbox .trigger.right {
     float: right;
     transform: rotateY(180deg);
+    background-position: right center;
 }
 
 .edit .trigger.right {
     float: right;
-    padding-left: 3px;
     transform: rotateY(180deg);
+    background-position: right center;
 }
 
 /*Replaces Bumpers with custom assets*/
